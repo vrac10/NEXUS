@@ -1,0 +1,1052 @@
+[
+    {
+        "from": "Eve",
+        "to": "Best Buy",
+        "category": "life_categories - Taxes",
+        "amount": 238.32,
+        "date": "2024-02-25"
+    },
+    {
+        "from": "Charlie",
+        "to": "Lyft",
+        "category": "Home - Service",
+        "amount": 366.51,
+        "date": "2024-04-02"
+    },
+    {
+        "from": "Hannah",
+        "to": "Uber",
+        "category": "Utilities - Heat/gas",
+        "amount": 431.82,
+        "date": "2024-08-20"
+    },
+    {
+        "from": "Hannah",
+        "to": "McDonald's",
+        "category": "life_categories - Insurance",
+        "amount": 146.82,
+        "date": "2024-08-16"
+    },
+    {
+        "from": "Alice",
+        "to": "Uber",
+        "category": "Utilities - Heat/gas",
+        "amount": 391.86,
+        "date": "2024-07-19"
+    },
+    {
+        "from": "Bob",
+        "to": "McDonald's",
+        "category": "Food and drink - Liquor",
+        "amount": 35.53,
+        "date": "2024-05-29"
+    },
+    {
+        "from": "Jack",
+        "to": "Starbucks",
+        "category": "Home - Household Supplies",
+        "amount": 246.41,
+        "date": "2024-05-02"
+    },
+    {
+        "from": "Grace",
+        "to": "Best Buy",
+        "category": "Transportation - Parking",
+        "amount": 494.58,
+        "date": "2024-03-15"
+    },
+    {
+        "from": "Charlie",
+        "to": "Netflix",
+        "category": "life_categories - Gifts",
+        "amount": 19.31,
+        "date": "2025-01-01"
+    },
+    {
+        "from": "Eve",
+        "to": "McDonald's",
+        "category": "Home - Other",
+        "amount": 371.39,
+        "date": "2024-06-30"
+    },
+    {
+        "from": "Charlie",
+        "to": "Spotify",
+        "category": "Transportation - Bus/train",
+        "amount": 228.24,
+        "date": "2024-06-24"
+    },
+    {
+        "from": "David",
+        "to": "Best Buy",
+        "category": "Utilities - Water",
+        "amount": 139.09,
+        "date": "2024-02-19"
+    },
+    {
+        "from": "David",
+        "to": "Uber",
+        "category": "Home - Household Supplies",
+        "amount": 34.06,
+        "date": "2024-09-24"
+    },
+    {
+        "from": "Bob",
+        "to": "Shell",
+        "category": "Entertainment - Games",
+        "amount": 228.3,
+        "date": "2024-05-30"
+    },
+    {
+        "from": "Charlie",
+        "to": "Lyft",
+        "category": "Transportation - Taxi",
+        "amount": 191.73,
+        "date": "2024-04-12"
+    },
+    {
+        "from": "Grace",
+        "to": "Shell",
+        "category": "Food and drink - Liquor",
+        "amount": 278.23,
+        "date": "2024-03-02"
+    },
+    {
+        "from": "Grace",
+        "to": "Spotify",
+        "category": "Uncategorized - General",
+        "amount": 32.58,
+        "date": "2024-11-10"
+    },
+    {
+        "from": "Bob",
+        "to": "Spotify",
+        "category": "life_categories - Insurance",
+        "amount": 22.18,
+        "date": "2024-04-13"
+    },
+    {
+        "from": "Jack",
+        "to": "Amazon",
+        "category": "Transportation - Other",
+        "amount": 185.89,
+        "date": "2024-04-22"
+    },
+    {
+        "from": "Eve",
+        "to": "Shell",
+        "category": "life_categories - Taxes",
+        "amount": 365.53,
+        "date": "2024-10-31"
+    },
+    {
+        "from": "Hannah",
+        "to": "Walmart",
+        "category": "life_categories - Education",
+        "amount": 280.31,
+        "date": "2025-01-29"
+    },
+    {
+        "from": "Charlie",
+        "to": "Uber",
+        "category": "Home - Mortgage",
+        "amount": 402.58,
+        "date": "2024-06-29"
+    },
+    {
+        "from": "Jack",
+        "to": "McDonald's",
+        "category": "Entertainment - Sports",
+        "amount": 365.28,
+        "date": "2024-05-11"
+    },
+    {
+        "from": "Ian",
+        "to": "Shell",
+        "category": "Home - Rent",
+        "amount": 74.95,
+        "date": "2024-09-18"
+    },
+    {
+        "from": "Charlie",
+        "to": "Netflix",
+        "category": "Food and drink - Coffee shops",
+        "amount": 288.4,
+        "date": "2024-05-12"
+    },
+    {
+        "from": "David",
+        "to": "Lyft",
+        "category": "Home - Other",
+        "amount": 467.41,
+        "date": "2024-09-15"
+    },
+    {
+        "from": "Grace",
+        "to": "Spotify",
+        "category": "Home - Service",
+        "amount": 479.57,
+        "date": "2024-08-12"
+    },
+    {
+        "from": "Charlie",
+        "to": "Shell",
+        "category": "Home - Electronics",
+        "amount": 116.08,
+        "date": "2024-07-27"
+    },
+    {
+        "from": "Frank",
+        "to": "Amazon",
+        "category": "life_categories - Taxes",
+        "amount": 179.47,
+        "date": "2024-09-17"
+    },
+    {
+        "from": "Eve",
+        "to": "Lyft",
+        "category": "life_categories - Taxes",
+        "amount": 179.45,
+        "date": "2025-02-07"
+    },
+    {
+        "from": "Alice",
+        "to": "Netflix",
+        "category": "Food and drink - Other",
+        "amount": 23.24,
+        "date": "2024-03-07"
+    },
+    {
+        "from": "Eve",
+        "to": "McDonald's",
+        "category": "Entertainment - Games",
+        "amount": 281.92,
+        "date": "2024-11-18"
+    },
+    {
+        "from": "Charlie",
+        "to": "Spotify",
+        "category": "Home - Electronics",
+        "amount": 70.01,
+        "date": "2024-06-19"
+    },
+    {
+        "from": "Grace",
+        "to": "Shell",
+        "category": "Food and drink - Coffee shops",
+        "amount": 425.85,
+        "date": "2024-03-20"
+    },
+    {
+        "from": "David",
+        "to": "Amazon",
+        "category": "life_categories - Taxes",
+        "amount": 481.46,
+        "date": "2024-11-07"
+    },
+    {
+        "from": "Bob",
+        "to": "McDonald's",
+        "category": "Food and drink - Other",
+        "amount": 309.24,
+        "date": "2024-09-02"
+    },
+    {
+        "from": "Bob",
+        "to": "Amazon",
+        "category": "Entertainment - Games",
+        "amount": 153.56,
+        "date": "2024-10-30"
+    },
+    {
+        "from": "Grace",
+        "to": "Starbucks",
+        "category": "Transportation - Taxi",
+        "amount": 90.68,
+        "date": "2024-05-28"
+    },
+    {
+        "from": "Hannah",
+        "to": "Starbucks",
+        "category": "Utilities - Electricity",
+        "amount": 290.72,
+        "date": "2024-10-24"
+    },
+    {
+        "from": "Hannah",
+        "to": "Amazon",
+        "category": "Uncategorized - General",
+        "amount": 391.92,
+        "date": "2024-07-29"
+    },
+    {
+        "from": "Alice",
+        "to": "Netflix",
+        "category": "life_categories - Gifts",
+        "amount": 203.18,
+        "date": "2024-02-16"
+    },
+    {
+        "from": "Alice",
+        "to": "Best Buy",
+        "category": "Utilities - Trash",
+        "amount": 485.81,
+        "date": "2024-03-08"
+    },
+    {
+        "from": "Ian",
+        "to": "Starbucks",
+        "category": "life_categories - Childcare",
+        "amount": 421.73,
+        "date": "2024-04-14"
+    },
+    {
+        "from": "Alice",
+        "to": "Amazon",
+        "category": "life_categories - Clothing",
+        "amount": 205.61,
+        "date": "2024-07-25"
+    },
+    {
+        "from": "Bob",
+        "to": "Shell",
+        "category": "Uncategorized - General",
+        "amount": 295.01,
+        "date": "2024-03-17"
+    },
+    {
+        "from": "Jack",
+        "to": "McDonald's",
+        "category": "Entertainment - Sports",
+        "amount": 398.36,
+        "date": "2025-01-28"
+    },
+    {
+        "from": "Hannah",
+        "to": "Shell",
+        "category": "Utilities - TV/Phone/Internet",
+        "amount": 238.82,
+        "date": "2024-11-12"
+    },
+    {
+        "from": "Charlie",
+        "to": "Spotify",
+        "category": "Uncategorized - General",
+        "amount": 149.17,
+        "date": "2024-03-03"
+    },
+    {
+        "from": "Frank",
+        "to": "Uber",
+        "category": "Entertainment - Movies",
+        "amount": 19.11,
+        "date": "2024-03-18"
+    },
+    {
+        "from": "Jack",
+        "to": "McDonald's",
+        "category": "Entertainment - Games",
+        "amount": 313.77,
+        "date": "2025-01-04"
+    },
+    {
+        "from": "Grace",
+        "to": "Netflix",
+        "category": "Entertainment - Games",
+        "amount": 298.23,
+        "date": "2024-12-29"
+    },
+    {
+        "from": "David",
+        "to": "McDonald's",
+        "category": "life_categories - Insurance",
+        "amount": 83.17,
+        "date": "2024-08-21"
+    },
+    {
+        "from": "Alice",
+        "to": "Best Buy",
+        "category": "Utilities - Heat/gas",
+        "amount": 457.29,
+        "date": "2024-05-06"
+    },
+    {
+        "from": "Ian",
+        "to": "McDonald's",
+        "category": "Home - Service",
+        "amount": 23.57,
+        "date": "2024-04-22"
+    },
+    {
+        "from": "Eve",
+        "to": "Spotify",
+        "category": "Home - Furniture",
+        "amount": 53.64,
+        "date": "2024-10-09"
+    },
+    {
+        "from": "Alice",
+        "to": "Netflix",
+        "category": "Food and drink - Coffee shops",
+        "amount": 74.38,
+        "date": "2024-07-14"
+    },
+    {
+        "from": "Frank",
+        "to": "Uber",
+        "category": "Food and drink - Groceries",
+        "amount": 452.12,
+        "date": "2025-02-08"
+    },
+    {
+        "from": "Bob",
+        "to": "Amazon",
+        "category": "life_categories - Medical expenses",
+        "amount": 10.65,
+        "date": "2025-02-02"
+    },
+    {
+        "from": "Frank",
+        "to": "Netflix",
+        "category": "life_categories - Other",
+        "amount": 450.36,
+        "date": "2024-12-28"
+    },
+    {
+        "from": "Alice",
+        "to": "Uber",
+        "category": "Food and drink - Groceries",
+        "amount": 444.5,
+        "date": "2024-11-11"
+    },
+    {
+        "from": "Alice",
+        "to": "Best Buy",
+        "category": "Utilities - Water",
+        "amount": 5.15,
+        "date": "2024-10-25"
+    },
+    {
+        "from": "Hannah",
+        "to": "Shell",
+        "category": "Uncategorized - General",
+        "amount": 103.55,
+        "date": "2024-06-26"
+    },
+    {
+        "from": "Eve",
+        "to": "Shell",
+        "category": "life_categories - Education",
+        "amount": 51.22,
+        "date": "2024-08-26"
+    },
+    {
+        "from": "Hannah",
+        "to": "Best Buy",
+        "category": "Utilities - Other",
+        "amount": 292.72,
+        "date": "2025-02-10"
+    },
+    {
+        "from": "Ian",
+        "to": "Lyft",
+        "category": "Uncategorized - General",
+        "amount": 397.57,
+        "date": "2024-10-15"
+    },
+    {
+        "from": "Eve",
+        "to": "Lyft",
+        "category": "Transportation - Bus/train",
+        "amount": 145.05,
+        "date": "2024-03-01"
+    },
+    {
+        "from": "Ian",
+        "to": "Starbucks",
+        "category": "life_categories - Medical expenses",
+        "amount": 34.49,
+        "date": "2024-05-17"
+    },
+    {
+        "from": "Ian",
+        "to": "Best Buy",
+        "category": "life_categories - Taxes",
+        "amount": 293.67,
+        "date": "2025-01-28"
+    },
+    {
+        "from": "Alice",
+        "to": "Walmart",
+        "category": "Transportation - Other",
+        "amount": 129.45,
+        "date": "2025-02-11"
+    },
+    {
+        "from": "Bob",
+        "to": "Amazon",
+        "category": "Transportation - Other",
+        "amount": 259.51,
+        "date": "2024-11-29"
+    },
+    {
+        "from": "Hannah",
+        "to": "Amazon",
+        "category": "Food and drink - Other",
+        "amount": 394.01,
+        "date": "2024-10-13"
+    },
+    {
+        "from": "Hannah",
+        "to": "Walmart",
+        "category": "life_categories - Gifts",
+        "amount": 454.63,
+        "date": "2024-12-09"
+    },
+    {
+        "from": "Charlie",
+        "to": "Best Buy",
+        "category": "Entertainment - Other",
+        "amount": 79.41,
+        "date": "2024-03-28"
+    },
+    {
+        "from": "Hannah",
+        "to": "McDonald's",
+        "category": "Entertainment - Other",
+        "amount": 163.68,
+        "date": "2024-02-27"
+    },
+    {
+        "from": "Hannah",
+        "to": "Netflix",
+        "category": "Entertainment - Games",
+        "amount": 113.95,
+        "date": "2024-04-29"
+    },
+    {
+        "from": "David",
+        "to": "Lyft",
+        "category": "Entertainment - Sports",
+        "amount": 402.18,
+        "date": "2024-08-19"
+    },
+    {
+        "from": "Frank",
+        "to": "Uber",
+        "category": "Entertainment - Movies",
+        "amount": 242.09,
+        "date": "2024-05-08"
+    },
+    {
+        "from": "Alice",
+        "to": "Best Buy",
+        "category": "life_categories - Childcare",
+        "amount": 52.3,
+        "date": "2024-12-29"
+    },
+    {
+        "from": "Charlie",
+        "to": "Starbucks",
+        "category": "Home - Service",
+        "amount": 310.23,
+        "date": "2024-06-19"
+    },
+    {
+        "from": "Hannah",
+        "to": "Uber",
+        "category": "Transportation - Plane",
+        "amount": 53.21,
+        "date": "2024-09-04"
+    },
+    {
+        "from": "David",
+        "to": "Shell",
+        "category": "life_categories - Childcare",
+        "amount": 125.36,
+        "date": "2024-09-18"
+    },
+    {
+        "from": "Charlie",
+        "to": "Shell",
+        "category": "life_categories - Medical expenses",
+        "amount": 402.86,
+        "date": "2024-03-29"
+    },
+    {
+        "from": "Alice",
+        "to": "Starbucks",
+        "category": "life_categories - Gifts",
+        "amount": 467.22,
+        "date": "2024-08-30"
+    },
+    {
+        "from": "Grace",
+        "to": "Lyft",
+        "category": "life_categories - Education",
+        "amount": 132.95,
+        "date": "2024-09-23"
+    },
+    {
+        "from": "Charlie",
+        "to": "Shell",
+        "category": "Food and drink - Groceries",
+        "amount": 271.99,
+        "date": "2024-09-06"
+    },
+    {
+        "from": "Charlie",
+        "to": "Starbucks",
+        "category": "Entertainment - Movies",
+        "amount": 76.31,
+        "date": "2024-04-29"
+    },
+    {
+        "from": "Grace",
+        "to": "Amazon",
+        "category": "Uncategorized - General",
+        "amount": 198.29,
+        "date": "2024-12-03"
+    },
+    {
+        "from": "Charlie",
+        "to": "Amazon",
+        "category": "Food and drink - Coffee shops",
+        "amount": 444.44,
+        "date": "2024-04-02"
+    },
+    {
+        "from": "Alice",
+        "to": "Amazon",
+        "category": "Entertainment - Movies",
+        "amount": 341.02,
+        "date": "2024-07-18"
+    },
+    {
+        "from": "Eve",
+        "to": "Walmart",
+        "category": "Home - Electronics",
+        "amount": 254.46,
+        "date": "2024-10-15"
+    },
+    {
+        "from": "Ian",
+        "to": "Netflix",
+        "category": "Utilities - Cleaning",
+        "amount": 192.95,
+        "date": "2024-08-19"
+    },
+    {
+        "from": "Frank",
+        "to": "Best Buy",
+        "category": "Home - Household Supplies",
+        "amount": 20.78,
+        "date": "2024-09-22"
+    },
+    {
+        "from": "Grace",
+        "to": "Walmart",
+        "category": "Uncategorized - General",
+        "amount": 250.85,
+        "date": "2024-08-29"
+    },
+    {
+        "from": "Ian",
+        "to": "Best Buy",
+        "category": "Home - Service",
+        "amount": 43.16,
+        "date": "2024-07-18"
+    },
+    {
+        "from": "David",
+        "to": "Walmart",
+        "category": "Transportation - Taxi",
+        "amount": 85.92,
+        "date": "2025-01-15"
+    },
+    {
+        "from": "Bob",
+        "to": "Best Buy",
+        "category": "Uncategorized - General",
+        "amount": 96.25,
+        "date": "2025-02-14"
+    },
+    {
+        "from": "Jack",
+        "to": "Lyft",
+        "category": "Food and drink - Liquor",
+        "amount": 19.23,
+        "date": "2024-06-15"
+    },
+    {
+        "from": "Hannah",
+        "to": "Walmart",
+        "category": "Home - Furniture",
+        "amount": 236.26,
+        "date": "2025-01-21"
+    },
+    {
+        "from": "Grace",
+        "to": "Amazon",
+        "category": "Uncategorized - General",
+        "amount": 203.29,
+        "date": "2024-08-30"
+    },
+    {
+        "from": "Charlie",
+        "to": "Lyft",
+        "category": "Home - Rent",
+        "amount": 488.83,
+        "date": "2024-06-11"
+    },
+    {
+        "from": "Hannah",
+        "to": "Spotify",
+        "category": "Food and drink - Other",
+        "amount": 269.91,
+        "date": "2024-07-10"
+    },
+    {
+        "from": "Bob",
+        "to": "Best Buy",
+        "category": "life_categories - Medical expenses",
+        "amount": 340.12,
+        "date": "2025-01-31"
+    },
+    {
+        "from": "Jack",
+        "to": "McDonald's",
+        "category": "life_categories - Medical expenses",
+        "amount": 463.93,
+        "date": "2024-07-17"
+    },
+    {
+        "from": "Frank",
+        "to": "McDonald's",
+        "category": "Food and drink - Other",
+        "amount": 44.07,
+        "date": "2024-10-14"
+    },
+    {
+        "from": "Frank",
+        "to": "Shell",
+        "category": "Entertainment - Games",
+        "amount": 19.65,
+        "date": "2024-10-05"
+    },
+    {
+        "from": "Bob",
+        "to": "Shell",
+        "category": "Entertainment - Movies",
+        "amount": 396.25,
+        "date": "2024-09-25"
+    },
+    {
+        "from": "Alice",
+        "to": "Walmart",
+        "category": "Uncategorized - General",
+        "amount": 165.18,
+        "date": "2024-10-26"
+    },
+    {
+        "from": "Jack",
+        "to": "Shell",
+        "category": "Uncategorized - General",
+        "amount": 357.64,
+        "date": "2024-11-14"
+    },
+    {
+        "from": "Alice",
+        "to": "Uber",
+        "category": "Food and drink - Dining Out",
+        "amount": 218.22,
+        "date": "2024-06-16"
+    },
+    {
+        "from": "Jack",
+        "to": "McDonald's",
+        "category": "Food and drink - Dining Out",
+        "amount": 187.97,
+        "date": "2025-01-20"
+    },
+    {
+        "from": "Charlie",
+        "to": "Netflix",
+        "category": "Home - Pets",
+        "amount": 26.17,
+        "date": "2024-11-14"
+    },
+    {
+        "from": "Frank",
+        "to": "Netflix",
+        "category": "Transportation - Parking",
+        "amount": 479.92,
+        "date": "2024-12-06"
+    },
+    {
+        "from": "Bob",
+        "to": "Netflix",
+        "category": "Food and drink - Coffee shops",
+        "amount": 308.73,
+        "date": "2024-05-25"
+    },
+    {
+        "from": "Ian",
+        "to": "Amazon",
+        "category": "Entertainment - Games",
+        "amount": 42.65,
+        "date": "2025-01-27"
+    },
+    {
+        "from": "Eve",
+        "to": "Starbucks",
+        "category": "Food and drink - Coffee shops",
+        "amount": 80.03,
+        "date": "2024-07-13"
+    },
+    {
+        "from": "Charlie",
+        "to": "Netflix",
+        "category": "Entertainment - Games",
+        "amount": 339.41,
+        "date": "2024-06-22"
+    },
+    {
+        "from": "Frank",
+        "to": "Walmart",
+        "category": "Home - Rent",
+        "amount": 170.88,
+        "date": "2025-02-01"
+    },
+    {
+        "from": "Alice",
+        "to": "Starbucks",
+        "category": "life_categories - Education",
+        "amount": 67.39,
+        "date": "2024-10-05"
+    },
+    {
+        "from": "Frank",
+        "to": "Uber",
+        "category": "Transportation - Hotel",
+        "amount": 341.14,
+        "date": "2024-07-25"
+    },
+    {
+        "from": "Eve",
+        "to": "Shell",
+        "category": "Transportation - Hotel",
+        "amount": 208.52,
+        "date": "2024-05-13"
+    },
+    {
+        "from": "Grace",
+        "to": "Amazon",
+        "category": "Food and drink - Liquor",
+        "amount": 398.65,
+        "date": "2024-11-17"
+    },
+    {
+        "from": "Bob",
+        "to": "Starbucks",
+        "category": "Utilities - Water",
+        "amount": 302.22,
+        "date": "2024-06-19"
+    },
+    {
+        "from": "Eve",
+        "to": "Shell",
+        "category": "Entertainment - Other",
+        "amount": 118.61,
+        "date": "2024-03-29"
+    },
+    {
+        "from": "Charlie",
+        "to": "Netflix",
+        "category": "Food and drink - Other",
+        "amount": 231.54,
+        "date": "2024-06-24"
+    },
+    {
+        "from": "Grace",
+        "to": "Spotify",
+        "category": "Uncategorized - General",
+        "amount": 260.36,
+        "date": "2024-12-07"
+    },
+    {
+        "from": "Alice",
+        "to": "McDonald's",
+        "category": "Transportation - Plane",
+        "amount": 208.83,
+        "date": "2024-09-19"
+    },
+    {
+        "from": "Jack",
+        "to": "Spotify",
+        "category": "Uncategorized - General",
+        "amount": 379.83,
+        "date": "2024-11-02"
+    },
+    {
+        "from": "Frank",
+        "to": "Amazon",
+        "category": "Home - Mortgage",
+        "amount": 304.52,
+        "date": "2024-07-11"
+    },
+    {
+        "from": "Eve",
+        "to": "Starbucks",
+        "category": "life_categories - Insurance",
+        "amount": 355.78,
+        "date": "2024-04-12"
+    },
+    {
+        "from": "Grace",
+        "to": "Spotify",
+        "category": "Home - Mortgage",
+        "amount": 230.31,
+        "date": "2024-12-15"
+    },
+    {
+        "from": "Bob",
+        "to": "Starbucks",
+        "category": "Uncategorized - General",
+        "amount": 89.25,
+        "date": "2024-03-27"
+    },
+    {
+        "from": "Alice",
+        "to": "Netflix",
+        "category": "Home - Pets",
+        "amount": 413.81,
+        "date": "2024-05-21"
+    },
+    {
+        "from": "Jack",
+        "to": "Lyft",
+        "category": "Utilities - TV/Phone/Internet",
+        "amount": 141.59,
+        "date": "2024-10-28"
+    },
+    {
+        "from": "Ian",
+        "to": "Shell",
+        "category": "Utilities - Other",
+        "amount": 104.95,
+        "date": "2024-09-15"
+    },
+    {
+        "from": "Grace",
+        "to": "Lyft",
+        "category": "Utilities - Trash",
+        "amount": 323.6,
+        "date": "2025-01-29"
+    },
+    {
+        "from": "Grace",
+        "to": "Best Buy",
+        "category": "Transportation - Bus/train",
+        "amount": 94.88,
+        "date": "2024-08-07"
+    },
+    {
+        "from": "Grace",
+        "to": "Lyft",
+        "category": "Home - Mortgage",
+        "amount": 15.83,
+        "date": "2024-06-03"
+    },
+    {
+        "from": "Bob",
+        "to": "McDonald's",
+        "category": "Transportation - Gas/fuel",
+        "amount": 426.36,
+        "date": "2024-04-13"
+    },
+    {
+        "from": "David",
+        "to": "Spotify",
+        "category": "Uncategorized - General",
+        "amount": 163.86,
+        "date": "2024-12-15"
+    },
+    {
+        "from": "Alice",
+        "to": "Walmart",
+        "category": "Utilities - Water",
+        "amount": 263.43,
+        "date": "2024-06-21"
+    },
+    {
+        "from": "Eve",
+        "to": "McDonald's",
+        "category": "Entertainment - Music",
+        "amount": 100.53,
+        "date": "2024-06-03"
+    },
+    {
+        "from": "Alice",
+        "to": "Amazon",
+        "category": "Uncategorized - General",
+        "amount": 471.17,
+        "date": "2024-10-01"
+    },
+    {
+        "from": "Ian",
+        "to": "Walmart",
+        "category": "Food and drink - Liquor",
+        "amount": 451.64,
+        "date": "2025-01-04"
+    },
+    {
+        "from": "Jack",
+        "to": "Shell",
+        "category": "life_categories - Gifts",
+        "amount": 271.8,
+        "date": "2024-05-01"
+    },
+    {
+        "from": "Ian",
+        "to": "Walmart",
+        "category": "Transportation - Taxi",
+        "amount": 5.12,
+        "date": "2024-02-28"
+    },
+    {
+        "from": "Eve",
+        "to": "Amazon",
+        "category": "Food and drink - Dining Out",
+        "amount": 177.2,
+        "date": "2024-05-04"
+    },
+    {
+        "from": "Grace",
+        "to": "Starbucks",
+        "category": "Food and drink - Liquor",
+        "amount": 431.98,
+        "date": "2024-12-25"
+    },
+    {
+        "from": "Frank",
+        "to": "Walmart",
+        "category": "Utilities - Heat/gas",
+        "amount": 295.64,
+        "date": "2024-05-24"
+    },
+    {
+        "from": "Frank",
+        "to": "Walmart",
+        "category": "Transportation - Taxi",
+        "amount": 23.31,
+        "date": "2024-03-11"
+    },
+    {
+        "from": "Alice",
+        "to": "Netflix",
+        "category": "life_categories - Insurance",
+        "amount": 202.44,
+        "date": "2024-12-01"
+    }
+]
